@@ -1,0 +1,1 @@
+int c=lcs(s.substr(1),t.substr(1));
